@@ -1,0 +1,39 @@
+@import '@angular/material/prebuilt-themes/indigo-pink.css';
+@import '@angular/material/prebuilt-themes/deeppurple-amber.css';
+
+/* Structure */
+table {
+  width: 100%;
+}
+
+table {
+    width: 100%;
+  }
+
+td, th{
+    width: 15%;
+  }
+ 
+.mat-mdc-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+.delete{
+  cursor: pointer;
+  color: red;
+}
+
+.edit{
+  cursor: pointer;
+  color: cornflowerblue; 
+}
+
+.ver{
+  cursor: pointer;
+}
+
+.agregar{
+  font-size: 10px;
+  line-height: 28px;
+}
